@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+My name is Arthur Molina and I'm a software developer.
+
+- 🔭 I’m currently working on Decisv
+- 🌱 I’m currently learning React
+- 📫 How to reach me: arthur@codium.com.br
+- ⚡ Fun fact: I'm also Architect with master degree in Urban Planning.
+
+
 <!--
-**arthurmolina/arthurmolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Arthur's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arthurmolina&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/arthurmolina/github-readme-stats#gh-dark-mode-only)
+[![Arthur's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=arthurmolina&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/arthurmolina/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmolina)](https://github.com/arthurmolina/github-readme-stats)
