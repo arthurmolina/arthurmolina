@@ -28,11 +28,14 @@ My name is Arthur Molina and I'm a software developer.
 
 ### My Stats 📊
 
-[![Arthur's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arthurmolina&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/arthurmolina/github-readme-stats#gh-dark-mode-only) [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmolina&theme=dark#gh-dark-mode-only)](https://github.com/arthurmolina/github-readme-stats#gh-dark-mode-only) 
-
+[![Arthur's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arthurmolina&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/arthurmolina/github-readme-stats#gh-dark-mode-only) 
 [![Stats-Dark](https://github-readme-streak-stats.herokuapp.com/?user=arthurmolina&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=arthurmolina&theme=dark#gh-dark-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmolina&theme=dark#gh-dark-mode-only)](https://github.com/arthurmolina/github-readme-stats#gh-dark-mode-only) 
 
-[![Arthur's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=arthurmolina&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/arthurmolina/github-readme-stats#gh-light-mode-only) [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmolina&theme=default#gh-light-mode-only)](https://github.com/arthurmolina/github-readme-stats#gh-light-mode-only) [![Stats-Light](https://github-readme-streak-stats.herokuapp.com/?user=arthurmolina&theme=default)](https://github-readme-streak-stats.herokuapp.com/?user=arthurmolina&theme=default#gh-light-mode-only)
+[![Arthur's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=arthurmolina&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/arthurmolina/github-readme-stats#gh-light-mode-only) 
+[![Stats-Light](https://github-readme-streak-stats.herokuapp.com/?user=arthurmolina&theme=default)](https://github-readme-streak-stats.herokuapp.com/?user=arthurmolina&theme=default#gh-light-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmolina&theme=default#gh-light-mode-only)](https://github.com/arthurmolina/github-readme-stats#gh-light-mode-only) 
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arthurmolina" alt="Arthur Molina Profile visits" /></p>
 
