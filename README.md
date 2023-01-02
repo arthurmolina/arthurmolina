@@ -2,9 +2,7 @@
 
 My name is Arthur Molina and I'm a software developer.
 
-[![Linkedin Badge](https://img.shields.io/badge/-arthurmolina-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-molina/)](https://www.linkedin.com/in/arthur-molina/) 
-
-[![Instagram Badge](https://img.shields.io/badge/arthurfelipemm-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/arthurfelipemm/)
+[![Linkedin Badge](https://img.shields.io/badge/-arthurmolina-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-molina/)](https://www.linkedin.com/in/arthur-molina/) [![Instagram Badge](https://img.shields.io/badge/arthurfelipemm-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/arthurfelipemm/)
 
 - 🔭 I’m currently working on Decisv as Ruby on Rails Developer.
 - 🌱 I’m currently learning React.
