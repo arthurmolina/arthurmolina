@@ -22,4 +22,5 @@ My name is Arthur Molina and I'm a software developer.
 [![Arthur's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arthurmolina&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/arthurmolina/github-readme-stats#gh-dark-mode-only)
 [![Arthur's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=arthurmolina&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/arthurmolina/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmolina)](https://github.com/arthurmolina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmolina)](https://github.com/arthurmolina/github-readme-stats&theme=dark#gh-dark-mode-only)](https://github.com/arthurmolina/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmolina)](https://github.com/arthurmolina/github-readme-stats&theme=default#gh-light-mode-only)](https://github.com/arthurmolina/github-readme-stats#gh-light-mode-only)
