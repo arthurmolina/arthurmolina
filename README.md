@@ -7,6 +7,9 @@ My name is Arthur Molina and I'm a software developer.
 - 🔭 I’m currently working on TapGoods as Ruby on Rails Developer.
 - 📫 How to reach me: arthur@codium.com.br
 - ⚡ Fun fact: I'm also Architect with master degree in Urban Planning.
+- 🌱 I have 2 Gems:
+  - https://github.com/arthurmolina/fluxbit_view_components
+  - https://github.com/arthurmolina/anyicon
 
 -------
 
